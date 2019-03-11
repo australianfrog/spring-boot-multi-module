@@ -56,10 +56,10 @@
                     <version>${jib-maven-plugin.version}</version>
                     <configuration>
                         <from>
-                            <image>docker.greater.com.au/platform/images/distroless-java:latest</image>
+                            <image>[my.repository]/distroless-java:latest</image>
                         </from>
                         <to>
-                            <image>docker.greater.com.au/lcooper/spring-boot-multi-module:latest</image>
+                            <image>[my.repository]/spring-boot-multi-module:latest</image>
                         </to>
                     </configuration>
                     <executions>
